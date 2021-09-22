@@ -1,0 +1,23 @@
+{
+  "name": "taiwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tailwind-build":"tailwind build src/styles/styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nishimweelysee/zatech.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nishimweelysee/zatech/issues"
+  },
+  "homepage": "https://github.com/nishimweelysee/zatech#readme",
+  "dependencies": {
+    "tailwindcss": "^2.2.15"
+  }
+}
