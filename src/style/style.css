@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.maincont {
+    @apply flex flex-col items-center p-6 bg-gray-200 rounded-2xl
+}
